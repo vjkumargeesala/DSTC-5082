@@ -1,4 +1,4 @@
-# 🌤️ DSTC-5082: Hybrid Weather Forecasting using LSTM and Multi-Source APIs
+# 🌤️Hybrid Weather Forecasting using LSTM and Multi-Source APIs
 
 This project aims to improve short-term weather prediction by integrating multiple meteorological data sources and applying a deep learning model (LSTM). By combining data from OpenWeather and NASA POWER APIs, we overcome the limitations of relying on a single source and enhance the robustness of forecasting results.
 
